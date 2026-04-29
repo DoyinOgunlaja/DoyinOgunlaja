@@ -13,11 +13,15 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am an analytical and detail-oriented professional with a strong interest in using data and evidence to support clear, fair, and informed decision-making. I enjoy working with complex information, transforming it into structured insights that can be used to solve problems and guide outcomes.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My experience has developed my ability to analyse varied data sources, identify patterns, and present findings in a clear and practical way. I am particularly focused on ensuring accuracy, maintaining high standards, and applying a logical approach when working through detailed information. I take pride in producing work that is reliable and can be confidently used to support decisions.
 
-When I'm not working with data, I enjoy learning, having time with family. I love the "aha!" moment when data reveals something new and useful.
+I am also highly organised and proactive, with experience managing multiple tasks and deadlines while maintaining attention to detail. I enjoy improving processes, whether by streamlining repetitive tasks or finding more efficient ways to work with information, and I am comfortable using digital tools and systems to support this.
+
+Alongside my analytical skills, I communicate effectively with a wide range of people, adapting my approach depending on the audience. I value clarity, professionalism, and building constructive working relationships to achieve shared outcomes.
+
+I am motivated by the opportunity to contribute to work that has a real public impact. I particularly value the “aha” moment when analysis leads to a clear and useful conclusion, supporting fair and evidence-based decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
